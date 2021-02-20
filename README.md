@@ -29,19 +29,19 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Herramientas para empezar a programar.
 * Sintaxis del lenguaje:
 * Tipos de datos
-* *    Operadores
+*    Operadores
 *    Estructuras de control de flujo
-**    Funciones
-**    Diccionarios
-**    Introducción a Clases y Objetos.
+*    Funciones
+*    Diccionarios
+*    Introducción a Clases y Objetos.
 * Bibliotecas
 * Manejo y procesamiento de texto.
 * Expresiones regulares.
 * Manejo y procesamiento de tablas con Pandas.
-    Lectura y escritura de archivos.
-    Operaciones básicas con tablas.
-    Filtrado, agrupamiento y reshaping de datos.
-    Manejo de datos faltantes.
+ *    Lectura y escritura de archivos.
+ *    Operaciones básicas con tablas.
+ *    Filtrado, agrupamiento y reshaping de datos.
+ *    Manejo de datos faltantes.
 * Estadística básica.
     Gráficos exploratorios.
 *Bonus: Presentación de algunas herramientas bioinformáticas disponibles en Python.
