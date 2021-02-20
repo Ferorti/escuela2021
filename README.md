@@ -28,20 +28,20 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Generalidades del lenguaje Python.
 * Herramientas para empezar a programar.
 * Sintaxis del lenguaje:
-* * Tipos de datos
-* * Operadores
-* * Listas y diccionarios
-* * Estructuras de control de flujo
-* * Funciones
+ * Tipos de datos
+ * Operadores
+ * Listas y diccionarios
+ * Estructuras de control de flujo
+ * Funciones
 * Introducción a Clases y Objetos.
 * Bibliotecas
 * Manejo y procesamiento de texto.
 * Expresiones regulares.
 * Manejo y procesamiento de tablas con Pandas.
-* * Lectura y escritura de archivos.
-* * Operaciones básicas con tablas.
-* * Filtrado, agrupamiento y reshaping de datos.
-* * Manejo de datos faltantes.
+ * Lectura y escritura de archivos.
+ * Operaciones básicas con tablas.
+ * Filtrado, agrupamiento y reshaping de datos.
+ * Manejo de datos faltantes.
 * Estadística básica.
 * Gráficos exploratorios.
 * Bonus: Presentación de algunas herramientas bioinformáticas disponibles en Python.
