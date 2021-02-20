@@ -32,7 +32,7 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
  * Operadores
  * Estructuras de control de flujo
  * Funciones
- * Diccionarios
+ * * Diccionarios
  * Introducción a Clases y Objetos.
 * Bibliotecas
 * Manejo y procesamiento de texto.
