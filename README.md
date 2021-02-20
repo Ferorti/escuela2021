@@ -11,7 +11,7 @@ Docentes: Javier Iserte, Fernando Orti, Elizabeth Martinez Perez (Fundación Ins
 #### OBJETIVOS:
 El curso busca ofrecer un primer acercamiento a la programación, el manejo y la visualización de datos, utilizando el lenguaje Python.  
  
-* AUDIENCIA:
+#### AUDIENCIA:
 El curso está pensado para investigadorxs,  estudiantes de grado y posgrado que tengan interés en hacer sus primeros pasos en la programación en general y/o que busquen incorporar la programación en sus labores profesionales.
 
 #### DIAS Y HORARIOS:
