@@ -30,10 +30,10 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Sintaxis del lenguaje:
 * Tipos de datos
  * Operadores
-  * Estructuras de control de flujo
-  * Funciones
-* Diccionarios
-  * Introducción a Clases y Objetos.
+ * Estructuras de control de flujo
+ * Funciones
+ * Diccionarios
+ * Introducción a Clases y Objetos.
 * Bibliotecas
 * Manejo y procesamiento de texto.
 * Expresiones regulares.
