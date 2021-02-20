@@ -28,11 +28,11 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Generalidades del lenguaje Python.
 * Herramientas para empezar a programar.
 * Sintaxis del lenguaje:
-** Tipos de datos
-** Operadores
-** Estructuras de control de flujo
-** Funciones
-** Diccionarios
+ ** Tipos de datos
+  * * Operadores
+**  Estructuras de control de flujo
+* * Funciones
+* * Diccionarios
 * Introducción a Clases y Objetos.
 * Bibliotecas
 * Manejo y procesamiento de texto.
