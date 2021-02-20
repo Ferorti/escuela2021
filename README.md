@@ -38,8 +38,8 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Manejo y procesamiento de texto.
 * Expresiones regulares.
 * Manejo y procesamiento de tablas con Pandas.
- * Lectura y escritura de archivos.
- * Operaciones básicas con tablas.
+** Lectura y escritura de archivos.
+** Operaciones básicas con tablas.
  * Filtrado, agrupamiento y reshaping de datos.
  * Manejo de datos faltantes.
 * Estadística básica.
