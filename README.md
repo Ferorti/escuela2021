@@ -1,6 +1,34 @@
 # Escuela de Bioinformática 2021
 ## A2B2C - Fundación Instituto Leloir
 
+---
+Para nosotrxs:
+En la carpeta clases van (previsiblmente las clases para exponer).
+Les recuerdo que las vamos a abrir e ir mostrando en colab, por lo general tienen el boton
+de abrir en colab.
+Yo estaba poniendo numeros pero podemos ir subiendo por temas y despues definimos bien el orden exacto.
+En la carpeta ejercicios irian las notebooks de (tambien previsiblemente) los ejercicios.
+
+les dejo dos links, el primero el de la escuelita de 2020, podemos sacar algunas cosas de ahí, sobre todo los ejercicios para hacer. Las explicaciones me parece que terminaron siendo un poco confusas pq la gente no terminó de entender algunas cosas.
+
+link1
+
+Por otro lado les comparto la clase de python que dieron los de IDPfun en el leloir en 2019, que es de donde más me estoy orientando para estructurar las cosas.
+
+link2
+
+Por ultimo, cree un classroom para poner algunos recursos offline, todavia no tiene nada.
+
+link3
+
+Bueno nada eso fui haciendo yo pero si quieren cambiar algo o sugerir otra cosa, no hay problema.
+
+---
+
+
+
+
+
 ### Introducción a Python para Bioinformática
 1, 2, 3, 4 y 5 de Marzo de 2021.
 Clases teórico practicas de 10 a 13 Hs. (GMT -3)
